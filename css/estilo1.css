@@ -54,3 +54,12 @@ body {
   iframe{
     margin: 20px;
   }
+
+  button{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50;
+    width:fit-content;
+    height:fit-content;
+    background-color: hotpink;
+    color: black;
+  }

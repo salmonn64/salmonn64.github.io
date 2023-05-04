@@ -2,7 +2,7 @@ body {
     background-color: rgb(0, 0, 0);
   }
   
-  h1,h2 {
+  h1 {
     color: white;
     text-align: left;
     font-family: Arial, Helvetica, sans-serif;
@@ -24,7 +24,7 @@ body {
 
  .imagebox{
     width: 600px;
-    border: 8px solid rgb(255, 154, 255);
+    border: 8px solid rgb(100, 100, 100);
     background-color: rgb(13, 11, 104);
     padding: 0px;
     margin: 20px;
@@ -48,7 +48,12 @@ body {
   }
 
   a:visited{
-    color:rgb(255, 255, 255)
+    color:rgb(255, 255, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: xx-large;
+    text-emphasis-color: white;
+    color: white;
   }
 
   iframe{
